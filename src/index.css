@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .text-HeadDisplay{
+        font-size: 85px;
+    }
+    .text-Head1{
+        font-size: 50px;
+    }
+    .text-Head2{
+        font-size: 35px;
+    }
+    .text-Head3{
+        font-size: 25px;
+    }
+    .text-Head4{
+        font-size: 22px;
+    }
+    .text-Head5{
+        font-size: 20px;
+    }
+    .text-Head6{
+        font-size: 18px;
+    }
+}
