@@ -1,13 +1,10 @@
-import React from 'react'
-
+import { Btn } from "./Common/Components/Buttons";
 function App() {
-
-
   return (
-    <div className=''>
-      Hello there
-    </div>
-  )
+   <div>
+    Hello
+   </div>
+  );
 }
 
-export default App
+export default App;
